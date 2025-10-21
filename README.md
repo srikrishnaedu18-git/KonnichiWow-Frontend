@@ -1,4 +1,5 @@
 ### Documentation - Konnichowow - Frontend 
+    - Explore the live demo here: https://konnichi-wow-frontend.vercel.app for a real-time experience. 
     - Kindly view the folder for documented images ( public/ )
 
 ## Overview
@@ -60,35 +61,34 @@
 
     npm run dev
 
+### Implemented Features
 
-### Implemented Features  
+**Quiz Interface**  
+Displays questions, options, and explanations in a clean, responsive card layout.
 
-Quiz Interface - 
-    Displays questions, options, and explanations in a clean, responsive card layout.
+**Answer Validation**  
+Highlights correct answers in green and incorrect ones in red for instant feedback.
 
-Answer Validation - 
-    Highlights correct answers in green and incorrect ones in red for instant feedback.
+**Progress Tracking**  
+Visual progress bar updates with each question answered.
 
-Progress Tracking - 
-    Visual progress bar updates with each question answered.
+**XP System**  
+XP increases with every correct answer, motivating consistent performance.
 
-XP System - 
-    XP increases with every correct answer, motivating consistent performance.
+**Heart System**  
+Hearts increase based on quiz completion and streaks, rewarding effort and persistence.
 
-Heart System - 
-    Hearts increase based on quiz completion and streaks, rewarding effort and persistence.
+**Badge Unlocks**  
+Earn badges like Conqueror, Ace, and Learner based on final score.
 
-Badge Unlocks - 
-    Earn badges like Conqueror, Ace, and Learner based on final score.
+**Review Mode**  
+After finishing, users can revisit all questions and see their answers vs. correct ones.
 
-Review Mode - 
-    After finishing, users can revisit all questions and see their answers vs. correct ones.
+**Redux Integration**  
+Global state tracks selections, scores, and resets across components.
 
-Redux Integration - 
-    Global state tracks selections, scores, and resets across components.
+**Keyboard Navigation**  
+Arrow keys and Enter allow smooth quiz progression without mouse input.
 
-Keyboard Navigation - 
-    Arrow keys and Enter allow smooth quiz progression without mouse input.
-
-Themed Quiz Sections - 
-    Gojo and Levi quizzes feature unique mascots, gradients, and animations.
+**Themed Quiz Sections**  
+Gojo and Levi quizzes feature unique mascots, gradients, and animations.
