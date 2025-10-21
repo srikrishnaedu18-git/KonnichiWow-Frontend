@@ -63,42 +63,42 @@
 
 ### Implemented Features  
 
-## Quiz Interface
+# Quiz Interface
 
     Displays questions, options, and explanations in a clean, responsive card layout.
 
-## Answer Validation
+# Answer Validation
 
     Highlights correct answers in green and incorrect ones in red for instant feedback.
 
-## Progress Tracking
+# Progress Tracking
 
     Visual progress bar updates with each question answered.
 
-## XP System
+# XP System
 
     XP increases with every correct answer, motivating consistent performance.
 
-## Heart System
+# Heart System
 
     Hearts increase based on quiz completion and streaks, rewarding effort and persistence.
 
-## Badge Unlocks
+# Badge Unlocks
 
     Earn badges like Conqueror, Ace, and Learner based on final score.
 
-## Review Mode
+# Review Mode
 
     After finishing, users can revisit all questions and see their answers vs. correct ones.
 
-## Redux Integration
+# Redux Integration
 
     Global state tracks selections, scores, and resets across components.
 
-## Keyboard Navigation
+# Keyboard Navigation
 
     Arrow keys and Enter allow smooth quiz progression without mouse input.
 
-## Themed Quiz Sections
+# Themed Quiz Sections
 
     Gojo and Levi quizzes feature unique mascots, gradients, and animations.
